@@ -1,5 +1,23 @@
+
+
+
+body { font-family: verdana, arial, helvetica, sans-serif;
+       font-size: 12px;
+       background-color: yellow;
+
+}
+
+#principal {
+
+        width: auto;
+        height: auto; 
+
+
+}
+
+
 #cabecalho {
     width: auto;
     height: 100px;
-    background-color: yellow;
+    background-color: blue;
 }
