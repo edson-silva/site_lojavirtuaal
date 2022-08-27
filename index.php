@@ -7,6 +7,7 @@
 <meta charset="UTF-8">
 
 <title> Loja Virtual </title>
+
 <link href= "css/css.css" rel="stylesheet" />
 
 </head>
