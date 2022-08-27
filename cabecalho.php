@@ -27,7 +27,8 @@
 
                    <span> buscar  </span>
                    <input type = "search" name = "pesquisa"  id= "pesquisa">
-                   <input 
+                   <input type="search" name="pesquisa" id= "pesquisa">
+                   <input type="image" src="image/lupa.png">
 
            </label>
 
@@ -45,8 +46,16 @@
 
 <div id = "cabecalho_inferior">
 
+        <nav id = "menu_principal">
 
+        <ul>
+            <li> <a href = "#"> Home </a></li>
+            <li> <a href = "#"> Produtos </a></li>
+            <li> <a href = "#"> Fale Conosco </a> </li>
+            <li> <a href = "#"> Quem Somos </a> </li>
 
+      </ul> 
+ 
 
 
 
